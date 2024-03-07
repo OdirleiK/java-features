@@ -2,8 +2,6 @@ package features.java.example.referencemethod;
 
 
 interface Figura {
-	//Para que um metodo da interface funcional seja referecniado pelo construtor de uma classe
-	// O metodo dessa interface funcional tem que retornar o tipo da calsse cujo o construtor ta sendo referenciado 
     RetanguloNew desenha(Double largura, Double altura);
 }
 
