@@ -1,4 +1,4 @@
-package java.lambda;
+package features.java.example.lambda;
 interface Figura {
 
 	void desenha();

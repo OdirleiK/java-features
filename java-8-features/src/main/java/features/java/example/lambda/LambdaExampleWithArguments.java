@@ -1,4 +1,4 @@
-package java.lambda;
+package features.java.example.lambda;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -40,7 +40,7 @@ public class LambdaExampleWithArguments {
 		lista.add(new Produto("tv 30", 2000.00));
 		lista.add(new Produto("tv 60", 6000.00));
 
-	//	lista.forEach((p) -> System.out.println(p.getNome()));
+		lista.forEach((p) -> System.out.println(p.getNome()));
 		
 		lista.sort( (p1, p2) -> p1.getPreco().compareTo(p2.getPreco()));
 		
