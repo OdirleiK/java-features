@@ -1,3 +1,4 @@
+package java.lambda;
 interface Figura {
 
 	void desenha();

@@ -1,3 +1,4 @@
+package java.lambda;
 
 public class LambdaExpressions {
 
