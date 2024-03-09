@@ -1,6 +1,5 @@
 package features.java.example.base;
 
-import java.io.UnsupportedEncodingException;
 import java.util.Base64;
 
 public class ExampleBase64 {
